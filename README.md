@@ -3,5 +3,4 @@
 
 ### How to run
   <h5>npm install </h5>
-  <br>
   <h5>npm start</h5>
